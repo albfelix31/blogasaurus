@@ -12,6 +12,7 @@ handlers:
 - url: /resources
   static_dir: static_folder
 
+
 - url: .*
   script: main.app
 
