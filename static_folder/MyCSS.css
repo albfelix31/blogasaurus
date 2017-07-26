@@ -64,3 +64,17 @@ h2 {
   border: 3px solid white;
   display: inline-block;
 }
+
+#freeTime {
+  font-family: fantasy;
+
+  width: 270px;
+  height: 230px;
+  padding-right: 7px;
+  padding-left: 7px;
+
+  margin-right: 20px;
+
+  border: 3px solid white;
+  display: inline-block;
+}
